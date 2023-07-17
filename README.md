@@ -1,4 +1,4 @@
-### olá! eu sou Aline Soares
+### Olá! eu sou Aline
 
 - 🔭 Atualmente estou apenas estudando.
 <div>
