@@ -1,6 +1,6 @@
 ### Olá! eu sou Aline
 
-- 🔭 Atualmente estou apenas estudando.
+- 🔭
 <div>
   <a heref="https://github.com/Aline01600">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Aline01600&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
